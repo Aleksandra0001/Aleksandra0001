@@ -25,6 +25,3 @@
 <a href="https://github.com/Aleksandra0001">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandra0001&langs_count=8&layout=compact" />
 </a>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Aleksandra0001.104300297&left_color=darkslateblue&right_color=green)
