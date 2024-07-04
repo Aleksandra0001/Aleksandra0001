@@ -20,7 +20,7 @@
 
 
 <a href="https://github.com/Aleksandra0001">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Aleksandra0001&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=merko" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Aleksandra0001&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko&v=1" />
 </a>
 <a href="https://github.com/Aleksandra0001">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandra0001&langs_count=8&layout=compact" />
